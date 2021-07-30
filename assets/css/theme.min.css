@@ -772,6 +772,9 @@ body {
 .section.section-dark {
  background-color:#04d9ff;
 }
+.bg-red {
+  background-color:#ff3503;
+}
 .section.section-light {
  background-color:#f3f3f3
 }
@@ -927,7 +930,7 @@ cite img {
  height:420px
 }
 .side-image-content {
- padding:0px 120px 35px 28px;
+ padding:0px 108px 0px 23px;
 }
 .side-image-title {
  text-transform:uppercase;
@@ -8661,6 +8664,7 @@ img.mfp-img {
 }
 .drink-items{
   font-size: 18px;
+  margin-bottom: 10px;
 }
 .swiper-lazy-preloader:after {
  display:block;
