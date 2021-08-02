@@ -740,6 +740,9 @@ hr.copyright-hr {
  opacity:1;
  max-width:100%
 }
+.map-height {
+  height: 350px;
+}
 .logo {
  width:150px;
  height:auto;
